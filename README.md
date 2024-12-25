@@ -9,3 +9,7 @@ Technologies Utilized: Leveraged Python and Power BI to create an intuitive and 
 Skills: Python, Microsoft Power BI, Python
 
 ![image](https://github.com/user-attachments/assets/7dec214b-5e1a-4a7e-bf57-acdb4309e825)
+![image](https://github.com/user-attachments/assets/7708a24e-82e2-4794-aebb-4328230f3e5b)
+![image](https://github.com/user-attachments/assets/60c1d05d-748f-4534-9227-43d4ceb8a7e1)
+![Uploading image.png…]()
+
